@@ -44,13 +44,21 @@ Welcome to the Teaching Assistants Information Management Program! This project 
 ### Installation & Usage
 
 1. Clone the repository:
-   `git clone https://github.com/KevinMandiouba/Teaching-Assistants-Information-Management-Program.git`
-2. Navigate to the project directory:
-   `cd Teaching-Assistants-Information-Management-Program`
-3. Compile the program:
-   `g++ -o main Driver.cpp TAs.cpp`
-4. Run the program:
-   `./main`
+   ```
+   git clone https://github.com/KevinMandiouba/Teaching-Assistants-Information-Management-Program.git
+   ```
+3. Navigate to the project directory:
+   ```
+   cd Teaching-Assistants-Information-Management-Program
+   ```
+5. Compile the program:
+   ```
+   g++ -o main Driver.cpp TAs.cpp
+   ```
+7. Run the program:
+   ```
+   ./main
+   ```
 
 ---
 
@@ -61,27 +69,3 @@ Welcome to the Teaching Assistants Information Management Program! This project 
    - Add New TAs: Enter details for new TAs, ensuring no duplicate IDs or invalid statuses.
    - Sort TA Records: Choose a sorting field and order (ascending/descending).
    - Exit: Safely saves data back to TAs.txt and exits the program.
-
----
-
-## 🌐 Future Enhancements
-
-- Add search functionality for specific TA records.
-- Implement a graphical user interface (GUI).
-- Allow exporting reports in different formats (CSV, JSON).
-
----
-
-## 🤝 Contribution
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests. For major changes, please open an issue to discuss your ideas.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-### ✨ Developed as part of the Programming Methodology II course. 
