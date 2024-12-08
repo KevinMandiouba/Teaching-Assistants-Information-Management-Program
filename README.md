@@ -6,7 +6,7 @@ Welcome to the Teaching Assistants Information Management Program! This project 
 
 ## 🌟 Features
 
-- Efficient Data Management: Read and write TA data from a file (TAs.txt).
+- Efficient Data Management: Read and write TA data from a file (**`TAs.txt`**).
 - Validation & Error Handling: Ensures all inputs are accurate and valid (e.g., prevents duplicate IDs or invalid statuses).
 - Dynamic Sorting Options: Allows sorting by ID, status, year hired, or working hours, in ascending or descending order.
 - Interactive Interface: Provides a user-friendly menu-driven interface.
@@ -17,10 +17,10 @@ Welcome to the Teaching Assistants Information Management Program! This project 
 
 ### 📜 Core Files
 
-- TAs.h: Header file defining the TAs class and its methods.
-- TAs.cpp: Implementation of the TAs class methods.
-- Driver.cpp: Main program file providing the interactive interface.
-- TAs.txt: Initial data file containing a list of TAs.
+- **`TAs.h`**: Header file defining the `TAs` class and its methods.
+- **`TAs.cpp`**: Implementation of the `TAs` class methods.
+- **`Driver.cpp`**: Main program file providing the interactive interface.
+- **`TAs.txt`**: Initial data file containing a list of TAs.
 
 ### 📝 Example Data (TAs.txt)
 ```plaintext
