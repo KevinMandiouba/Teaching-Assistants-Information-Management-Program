@@ -8,7 +8,6 @@ This project aims to manage information related to teaching assistants, includin
 ## Features ✨
 - Manage teaching assistants' schedules
 - Store and retrieve subject information
-- Contact information management
 - User-friendly interface
 
 ## Getting Started 🚀
